@@ -170,7 +170,7 @@ I'm a passionate technologist with expertise across the full development spectru
   <a href="https://github.com/AnojanMk/Marstech-Project---SPICES-website">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://anojanmk.github.io/Marstech-Project---SPICES-website/)">
+  <a href="https://anojanmk.github.io/Marstech-Project---SPICES-website/">
     <img src="https://img.shields.io/badge/Live_Demo-6F4FF0?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
