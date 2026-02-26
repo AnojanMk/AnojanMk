@@ -1,12 +1,4 @@
 
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anojanmk&label=Profile%20Views&color=6F4FF0&style=for-the-badge" alt="anojanmk" />
-</div>
-
-<br/>
-
 <!-- Name with animated background -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,18,24,30&text=Anojan%20MK&fontSize=60&fontColor=6F4FF0&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Cyber%20Security%20%7C%20UI/UX%20Designer&descSize=18&descAlignY=80&section=header" width="100%" alt="Name Background" />
@@ -100,10 +92,7 @@ I'm a passionate technologist with expertise across the full development spectru
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anojanmk&show_icons=true&count_private=true&hide_border=true&title_color=6F4FF0&icon_color=6F4FF0&text_color=c9d1d9&bg_color=0d1117" alt="Anojan MK github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anojanmk&layout=compact&hide_border=true&title_color=6F4FF0&text_color=6F4FF0&bg_color=0d1117" />
-</div>
+
 
 <div align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=anojanmk&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6F4FF0&ring=6F4FF0&fire=6F4FF0&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6F4FF0&sideLabels=FFFFFF&dates=6F4FF0" />
