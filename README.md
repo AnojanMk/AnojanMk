@@ -1,7 +1,7 @@
 
 <!-- Name with animated background -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,18,24,30&text=Anojan%20MK&fontSize=60&fontColor=6F4FF0&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Cyber%20Security%20%7C%20UI/UX%20Designer&descSize=18&descAlignY=80&section=header" width="100%" alt="Name Background" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,18,24,30&text=Anojan%20MK&fontSize=60&fontColor=1A1A4A&animation=twinkling&desc=🚀Full%20Stack%20Developer%20%7C%20🔐Cyber%20Security%20%7C%20🎨UI/UX%20Designer&descSize=18&descAlignY=80&section=header" width="100%" alt="Name Background" />
 </p>
 
 <!-- Decorative Divider -->
